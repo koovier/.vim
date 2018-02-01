@@ -20,7 +20,7 @@
 
 " 关于Clang-Format插件的注意事项
 " clang-format命令的版本为3.8以上,且插件只识别命令"clang-format",并不识别"clang-format-3.8"
-" 可以删除/usr/bin/clang-format，然后做软连接"ln -s /usr/bin/clang-format /usr/bin/clang-format-3.8"
+" 可以删除/usr/bin/clang-format，然后做软连接"ln -s /usr/bin/clang-format-3.8 /usr/bin/clang-format "
 
 
 
